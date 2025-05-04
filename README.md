@@ -16,4 +16,4 @@ Footer with contact and social links
 # 🎯 Objective
 To create a high-conversion promotional email that aligns with the brand’s visual identity and enhances user engagement during seasonal campaigns.
 
-## Figma prototype link : https://www.figma.com/proto/wSSsfsKYkACASqRm7HdFYU/Email-Template?node-id=1-133&t=dEG2sNBvBkSmNRbR-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A133
+### Figma prototype link : https://www.figma.com/proto/wSSsfsKYkACASqRm7HdFYU/Email-Template?node-id=1-133&t=dEG2sNBvBkSmNRbR-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A133
